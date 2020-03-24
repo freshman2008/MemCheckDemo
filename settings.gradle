@@ -1,0 +1,2 @@
+rootProject.name='MemCheckDemo'
+include ':app'
